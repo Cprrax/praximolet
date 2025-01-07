@@ -22,7 +22,7 @@ const transporter = nodemailer.createTransport({
     // pass: "phop baoj wpki iilk",
     // user: "Pinetworkm493@gmail.com",
     //pi-personal  
-      pass: "sudk hjft pkrp bkjo",
+      pass: "dmoa simy wpdf ikyl",
       user: "companygcv37@gmail.com",
 
   },
